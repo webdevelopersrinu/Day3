@@ -1,0 +1,13 @@
+1)Static and dynamic programming:-
+
+Static programming involves writing code that remains unchanged during runtime, like basic scripts or simple algorithms.
+
+Dynamic programming involves optimizing code by breaking down a problem into smaller subproblems and storing solutions to avoid redundant calculations, often used for complex problems like optimization or finding the shortest path.
+
+2)way indexing start with zero every programming language:-
+
+In programming, indexing starts at 0 because it aligns with how memory addresses work. It's like counting from the beginning of a list where the first item is at position 0, making it simpler for computers to manage and access data.
+
+3)use case of list in real time :-
+
+In programming, indexing starts at 0 because it aligns with how memory addresses work. It's like counting from the beginning of a list where the first item is at position 0, making it simpler for computers to manage and access data.
